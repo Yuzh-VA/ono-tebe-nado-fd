@@ -1,1 +1,1 @@
-https://github.com/Yuzh-VA/ono-tebe-nado-fd.git
+https://github.com/Yuzh-VA/ono-tebe-nado
